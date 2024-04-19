@@ -9,6 +9,7 @@ public abstract class Asignatura {
         this.creditos = creditos;
         this.departamento = departamento;
         this.semestre = semestre;
+        
     }
 
     public int cantidadHoras() {
